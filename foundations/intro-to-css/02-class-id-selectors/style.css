@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.odd{
+    background-color: rgba(248, 2, 146, 0.397); font-family: Verdana, "DejaVu Sans" sans-serif;
+}
+
+.odd.third{
+    font-size: 24px;
+}
+
+#idone{
+    font-size:36px; color: hsl(216, 94%, 46%);
+}
+
+#idtwo{
+    font-size: 24px; background-color: rgba(12, 161, 50, 0.644);
+}
